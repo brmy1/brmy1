@@ -18,6 +18,9 @@ Algumas especialidades são: Java Script(PRO), Dart, Phyton, PHP. HTML, CSS, SAS
 ### Projetos que eu trabalhei
 
 - WebwePRO
+- Recicla
+- AimJunkies
+- Fenix Hacking
 - Decordis
 - Garra Depositos
 - Troia PUB
