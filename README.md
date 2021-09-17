@@ -13,7 +13,7 @@ Tenho colaboração e solução em diversas aplicações.
 ### Especialidades
 
 Algumas especialidades são: Java Script(PRO), Dart, Python, PHP. HTML, CSS, SASS. VueJS, NextJs, React, Flutter. NoSQL & SQL.
-- mathdevpro.web.app
+- https://cutt.ly/oEtnXfX
 
 ### Projetos que eu trabalhei
 
