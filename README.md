@@ -11,7 +11,7 @@ Comecei com games, depois html, css, php, javascript, phyton, dart, . Frameworks
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Freelancer? Me envie um email [email](mailto:matheussturiao@gmail.com ) :)
+- 💼 Freelancer? Me envie um [email](mailto:matheussturiao@gmail.com ) :)
 - 💬 Procurando uma ajuda, ficarei feliz em ajudar;
 
 **Linguagens e ferramentas:**  
