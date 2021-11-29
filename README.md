@@ -4,6 +4,8 @@
 </a>
 
 <br />
+<br />
+<br />
 
 Comecei com games, depois html, css, php, javascript, phyton, dart, . Frameworks como vuejs, react, flutter. Trabalhei em diversos projetos, incluindo estoque, financeiro e grande demanda de usuarios.
 
