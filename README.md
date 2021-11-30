@@ -12,7 +12,7 @@ Comecei com games, em seguida html, css, php, javascript, phyton, dart, . Framew
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Freelancer? Me envie um [email](mailto:matheussturiao@gmail.com ) :)
-- 💬 Procurando uma ajuda, ficarei feliz em ajudar;
+- 💬 Procurando uma ajuda? Ficarei feliz em ajudar
 
 **Linguagens e ferramentas:**  
 
